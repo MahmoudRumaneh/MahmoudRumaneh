@@ -1,4 +1,3 @@
-<div style="background: linear-gradient(to right, green, lightgreen); padding: 20px; border-radius: 10px;">
 <h1 align="center">Hi, I'm Mahmoud Rumaneh</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
@@ -43,8 +42,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudRumaneh&show_icons=true&locale=en" alt="MahmoudRumaneh" /></p>
 
-
-</div>
 
 
 
