@@ -1,4 +1,4 @@
-<div background-color="white">
+<div style="background-color: green">
 <h1 align="center">Hi, I'm Mahmoud Rumaneh</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
