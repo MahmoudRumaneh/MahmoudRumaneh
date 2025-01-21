@@ -15,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.php.net/docs.php">
-      <img src="https://www.logotypes101.com/logos/203/272663FA02DE2DAA2BBAE2FC39F14783/php.png" alt="PHP" width="40" height="40"/>
+      <img src="https://pngimg.com/uploads/php/php_PNG34.png" alt="PHP" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
