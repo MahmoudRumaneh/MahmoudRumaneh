@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working as Full Stack Web Developer
 
-- 👨‍💻 jussst teest
+- 👨‍💻 
 
 - 📫 How to reach me **mahmoudrmn@gmail.com**
 
